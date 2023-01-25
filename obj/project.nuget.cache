@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IP2ooHGFutBOq0JktAOadddgW+BpElpGMBFJ7Sbq1ySp/DmULF1u30lo3UehY5bfAARcyrxHfXm9yTFYbkTGAg==",
+  "success": true,
+  "projectFilePath": "/Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/SignalRWebpack/SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.typescript.msbuild/4.9.4/microsoft.typescript.msbuild.4.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}
